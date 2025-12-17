@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.homework1
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue

@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.homework1
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
